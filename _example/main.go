@@ -6,8 +6,8 @@ import (
 	"log"
 	"net/http"
 
-	ginI18n "github.com/gin-contrib/i18n"
 	"github.com/gin-gonic/gin"
+	ginI18n "github.com/hujinlong/i18n"
 	"github.com/nicksnyder/go-i18n/v2/i18n"
 	"golang.org/x/text/language"
 )
